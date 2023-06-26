@@ -363,14 +363,12 @@ body {
 }
 
 .footer__info-links {
-	display: flex;
-	flex-flow: column;
-	gap: 10px;
 }
 
 .links__title {
 	color: #FFF;
 	text-transform: uppercase;
+	margin-bottom: 10px;
 }
 
 .links__link {
